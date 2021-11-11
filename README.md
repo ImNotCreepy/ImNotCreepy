@@ -61,27 +61,11 @@
 
 <h1 align="center"> 🤝 Socials: </h1>
   <p align="center">
-    <a href="https://twitter.com/raklaptudirm">
-      <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href="https://stackoverflow.com/users/story/14553594">
-      <img src="https://img.shields.io/badge/stack%20overflow-F58025?&style=for-the-badge&logo=stack%20overflow&logoColor=white">
-    </a>
-    <a href="https://raklaptudirm.medium.com/">
-      <img src="https://img.shields.io/badge/medium-000000?&style=for-the-badge&logo=medium&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/rak-laptudirm-09b444211/">
-      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
+  [![Discord Badge](https://img.shields.io/badge/-ञ%20𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸%20ᵍᵒʳᵍⁱ%202672-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://discords.com/bio/p/sexydevil)](https://discords.com/bio/p/sexydevil)
+  [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/X_.jvd)
+  [![Gmail Badge](https://img.shields.io/badge/-javadfrt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javadfrt@gmail.com)](javadfrt@gmail.com)</br>
     </a>
   </p>
 </h1>
 
 <hr>
-
-<h4 align="center"> The widgets on my <code>README.md</code> are works of many other contributers. Click on the widgets to use them yourself. </h4>
-
-<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
-</a>
-![ImNotCreepy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImNotCreepy&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotCreepy&layout=compact)](https://github.com/ImNotCreepy/github-readme-stats)
