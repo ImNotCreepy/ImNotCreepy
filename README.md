@@ -82,6 +82,6 @@
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
-<a>
+</a>
 ![ImNotCreepy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImNotCreepy&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotCreepy&layout=compact)](https://github.com/ImNotCreepy/github-readme-stats)
