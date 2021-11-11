@@ -5,7 +5,7 @@ Part of The Hyper Team 🙋‍♂️
 </br></br>
 📞 You Can Reach me from :
   [![Discord Badge](https://img.shields.io/badge/-◤%20creepy%20𝐑𝗈мaη𝐜𝐞%206100-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://discords.com/bio/p/sexydevil)](https://discords.com/bio/p/ImNotCreepy)
-  [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/_smamir)
+  [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_smamir/)](https://instagram.com/_smamir)
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
