@@ -1,12 +1,9 @@
-## Welcome To My Github Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-Im Javad 💻
-</br>
-Part of The Hyper Team 🙋‍♂️
-</br></br>
-📞 You Can Reach me from :
+<div style="text-align: center;">
+## 📞 Socials :
   [![Discord Badge](https://img.shields.io/badge/-ञ%20𝗦𝗲𝘅𝘆𝗗𝗲𝘃𝗶𝗹⸸%20ᵍᵒʳᵍⁱ%202672-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://discords.com/bio/p/sexydevil)](https://discords.com/bio/p/sexydevil)
   [![Instagram Badge](https://img.shields.io/badge/-X_.jvd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/X_.jvd/)](https://instagram.com/X_.jvd)
   [![Gmail Badge](https://img.shields.io/badge/-javadfrt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javadfrt@gmail.com)](javadfrt@gmail.com)</br>
+</div>
 ## ☕ Buy me Coffe
 <a href="https://coffeebede.ir/buycoffee/sexydevil"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 ## ⚡ Technologies
