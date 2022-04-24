@@ -1,7 +1,7 @@
 ## Welcome To My Github Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 Im ImNotCreepy 💻
 </br>
-Part of The Hyper Team 🙋‍♂️
+Part of The Hyper & Harmony Team 🙋‍♂️
 </br></br>
 📞 You Can Reach me from :
   [![Discord Badge](https://img.shields.io/badge/-'%20AmirCreepy%206100-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://discords.com/bio/p/AmirCreepy)](https://discords.com/bio/p/AmirCreepy)
