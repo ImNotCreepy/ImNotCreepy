@@ -25,5 +25,9 @@ Discord Developer/Configer</br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImNotCreepy&show_icons=true&line_height=27&count_private=true&title_color=ffff&text_color=ffff&icon_color=ffff&bg_color=1d1f21" alt="ImNotCreepy's GitHub Stats" />
 </a>
 
+<div align="center"> 
+    <img align="center" src="https://discord.c99.nl/widget/theme-3/842927409845108756.png" alt=""/>
+</div>
+
 ## 🔔 My Lastest Github Metrics
 ![Metrics](https://metrics.lecoq.io/ImNotCreepy?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
