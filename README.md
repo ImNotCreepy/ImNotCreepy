@@ -1,4 +1,4 @@
-## Welcome To My Github Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Welcome To My Github Page <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/skull_1f480.png,https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 Im ImNotCreepy 💻
 </br>
 Part of The Hyper & Harmony Team 🙋‍♂️
