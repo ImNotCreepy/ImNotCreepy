@@ -5,7 +5,7 @@ Part of The Hyper & Harmony Team 🙋‍♂️
 </br></br>
 📞 You Can Reach me from :
   [![Discord Badge](https://img.shields.io/badge/-'%20AmirCreepy%206100-738ADB?style=flat-square&logo=Discord&logoColor=white&link=https://discords.com/bio/p/AmirCreepy)](https://discords.com/bio/p/AmirCreepy)
-  [![Instagram Badge](https://img.shields.io/badge/-_smamir-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_smamir/)](https://instagram.com/_smamir)
+  [![Instagram Badge](https://img.shields.io/badge/-__smamir-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_smamir/)](https://instagram.com/_smamir)
 <div align="center"> 
     <img align="center" src="https://discord.c99.nl/widget/theme-3/842927409845108756.png" alt=""/>
 </div>
