@@ -7,7 +7,7 @@ Part of The Hyper & Harmony Team 🙋‍♂️
 [![Discord Badge](https://img.shields.io/badge/CreepyAmir-8118-9cf?style=flat-square&logo=Discord&logoColor=white&link=https://dsc.bio/CreepyAmir)](https://dsc.bio/CreepyAmir)
 [![Instagram Badge](https://img.shields.io/badge/-__smamir-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_smamir/)](https://instagram.com/_smamir)
 <div align="center"> 
-    <img align="center" src="https://discord.c99.nl/widget/theme-3/842927409845108756.png" alt=""/>
+    <img align="center" src="https://discord.c99.nl/widget/theme-2/868931495232929802.png" alt=""/>
 </div>
 
 ## ⚡ Technologies
