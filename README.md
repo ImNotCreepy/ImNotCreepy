@@ -4,7 +4,7 @@ Im ImNotCreepy 💻
 Part of The Hyper & Harmony Team 🙋‍♂️
 </br></br>
 📞 You Can Reach me from :
-  [![Discord Badge]([https://img.shields.io/badge/%C6%87%D1%8F%D1%94%D1%94%CF%81%D1%83A%D0%BC%CE%B9%D1%8F%E2%B8%B8-8118-9cf=https://dsc.bio/CreepyAmir)](https://dsc.bio/CreepyAmir)
+  [![Discord Badge]([https://img.shields.io/badge/%C6%87%D1%8F%D1%94%D1%94%CF%81%D1%83A%D0%BC%CE%B9%D1%8F%E2%B8%B8-8118-9cf=https://dsc.bio/CreepyAmir/)](https://dsc.bio/CreepyAmir)
   [![Instagram Badge](https://img.shields.io/badge/-__smamir-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_smamir/)](https://instagram.com/_smamir)
 <div align="center"> 
     <img align="center" src="https://discord.c99.nl/widget/theme-3/842927409845108756.png" alt=""/>
